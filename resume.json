@@ -1,0 +1,74 @@
+{
+    "basics": {
+        "name": "Abhishek Tiwari",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/88239944?s=400&u=1709ad250be257368adc8008c774d65b2d813f79&v=4",
+        "email": "2020kucp1104@iiitkota.ac.in",
+        "phone": "9664973517",
+        "summary": "I'm a student of Indian Institute of Information Technology Kota (India), pursuing my B.tech in Computer Science & Engineering.",
+        "location": {
+            "address": "Gyanpur",
+            "postalCode": "221308",
+            "city": "Bhadohi",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [{
+                "network": "Github",
+                "username": "ABHISHEK TIWARI",
+                "url": "https://github.com/2020KUCP1104/"
+            },
+            {
+                "network": "twitter",
+                "username": "ABHISHEK TIWARI",
+                "url": "https://twitter.com/ABHISHE50754989/"
+            },
+            {
+                "network": "linkedin",
+                "username": "Abhishek Tiwari",
+        "url":"https://www.linkedin.com/in/abhishek-tiwari-6a80131bb/"
+            },
+            {
+                "network": "Instagram",
+                "username": "abhishektiwari3331",
+                "url": "https://www.instagram.com/abhishektiwari3331/"
+            }
+        ]
+    },
+    "education": [{
+        "institution": "Indian Institute of Information Technology,Kota",
+        "area": "Engineering",
+        "studyType": "Bachelor of Technology",
+        "courses": [
+            "Computer Science & Engineering"
+        ]
+    }],
+    "skills": [{
+        "level": "Beginner",
+        "keywords": [
+            "HTML",
+            "CSS",
+            "C/C++"
+        ]
+    }],
+    "languages": [{
+        "language": ["English", "Hindi"],
+        "fluency": "Fluent speaker"
+    }],
+    "interests": [{
+            "name": "Hobby",
+            "keywords": [
+                "learning facts"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Football",
+                "Cricket"
+            ]
+        }
+    ],
+    "references": []
+}
