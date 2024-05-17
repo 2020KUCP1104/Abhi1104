@@ -21,8 +21,8 @@ Training: The model can be trained using the provided dataset. Run the train_mod
 
 Prediction: Once trained, the model can make predictions on new data. Provide the relevant features of a movie (e.g. genre, actors, director, year, duration, votes) to the trained model, and it will output a predicted rating for the movie.
 
-Evaluation
+Evaluation:
 The performance of the model can be evaluated using metrics such as Root Mean Squared Error (RMSE) on a test dataset. This helps assess how well the model generalizes to unseen data.
 
-Deployment
+Deployment:
 The trained model can be deployed in applications or services to provide real-time movie rating predictions. Ensure proper infrastructure and API endpoints are set up for model inference.
